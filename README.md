@@ -8,5 +8,7 @@ Example:
 ```
 $ asteroids([5, 8, -5])
 $ [5, 8] // The 8 and -5 collide, 8 wins. The 5 and 8 never collide.
-$ asteroids([10, -10]) $ [] // The 10 and -10 collide and they both explode.
+
+$ asteroids([10, -10])
+$ [] // The 10 and -10 collide and they both explode.
 ```
